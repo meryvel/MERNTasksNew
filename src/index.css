@@ -122,8 +122,9 @@ aside  {
   color: var(--gris2);
 }
 .proyectos {
-  margin-top: 10rem;
+  margin-top: 10rem;  
 }
+
 .listado-proyectos li {
   margin-bottom: 2rem;
 }
